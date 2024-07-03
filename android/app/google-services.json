@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "960631525969",
+    "project_id": "campuswap-e6d7a",
+    "storage_bucket": "campuswap-e6d7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960631525969:android:47044fa735cb7453ab5e70",
+        "android_client_info": {
+          "package_name": "com.example.campuswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960631525969-r7i6017e9o2cq57ho1kbnpgqpghpah0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campuswap",
+            "certificate_hash": "6a161274f8c3adda895720713bedbd61f33e7ea9"
+          }
+        },
+        {
+          "client_id": "960631525969-d6scfdp7kdpbquvndkrabnr2bpr67m78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMdgu7-rP5DQOokpuSYRlGQyli867UxtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960631525969-d6scfdp7kdpbquvndkrabnr2bpr67m78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960631525969-nj494q3vjl7619spsu23jie9mbuq8q93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campuswap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
